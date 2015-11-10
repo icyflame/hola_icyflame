@@ -2,6 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'hola_icyflame'
   s.version     = '0.0.0'
   s.date        = '2015-11-10'
+	s.executables << 'hola'
   s.summary     = "Hello!"
   s.description = "A simple hello world gem - let's get started!"
   s.authors     = ["Siddharth Kannan"]
